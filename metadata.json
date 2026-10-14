@@ -2,5 +2,7 @@
   "name": "Violet Muse | Atelier Couture & Luxury Dresses",
   "description": "Quiet luxury and haute-couture editorial silhouettes tailored for confident, stylish, globally minded women with WhatsApp concierge and secure atelier portal.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
